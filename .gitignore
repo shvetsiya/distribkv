@@ -1,2 +1,9 @@
+# Binaries, plugins, libs
+*.so
+
+# Testing
+*.test
+*.tmp
+
 *.db
 *~
